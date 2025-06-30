@@ -29,7 +29,6 @@ week6/
 │   ├── schwefel_LaMCTS/          # LA-MCTS在Schwefel函数上的应用
 │   └── LaMCTS原理.md             # LA-MCTS算法原理说明
 ├── rosenbrock_data_raw/          # Rosenbrock函数数据集
-├── kaggle_dante_notebook.ipynb   # Kaggle平台部署版本
 └── README.md                     # 项目说明文档
 ```
 
