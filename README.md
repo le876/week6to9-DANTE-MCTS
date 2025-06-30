@@ -56,6 +56,7 @@ DANTEÊÇÒ»ÖÖ»ùÓÚÉî¶ÈÉñ¾­ÍøÂç´úÀíÄ£ÐÍµÄÖ÷¶¯Ñ§Ï°ÓÅ»¯¿ò¼Ü£¬Í¨¹ýÉñ¾­ÍøÂçÒýµ¼µÄÊ÷ËÑË÷²
 ### 2. LA-MCTSËã·¨
 
 LA-MCTSÍ¨¹ýÃÉÌØ¿¨ÂåÊ÷ËÑË÷¶¯Ì¬Ñ§Ï°ËÑË÷¿Õ¼ä»®·Ö£¬ÔÚÓÐÏ£ÍûµÄ×ÓÇøÓòÖÐÊ¹ÓÃ±´Ò¶Ë¹ÓÅ»¯½øÐÐ¾Ö²¿ËÑË÷¡£
+![LA-MCTSÁ÷³ÌÍ¼](image-1.png)
 
 #### ºËÐÄ×é¼þ
 - **MCTSÊ÷½á¹¹**£º¶¯Ì¬¹¹½¨ºÍÎ¬»¤ËÑË÷Ê÷
